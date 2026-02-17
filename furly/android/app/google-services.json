@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834346286447",
+    "project_id": "furly-e159a",
+    "storage_bucket": "furly-e159a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834346286447:android:6b78c8b72064d2ca087c9a",
+        "android_client_info": {
+          "package_name": "furly.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvvJdxf5UVDd4bG5AVWjtI2o6s_syhdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
